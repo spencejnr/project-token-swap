@@ -298,9 +298,7 @@ main(1);
 ```
 
 - **main**: Orchestrates the whole process:
-  1. **Approve USDC**: Approves the swap
-
- router to spend USDC tokens.
+  1. **Approve USDC**: Approves the swap router to spend USDC tokens.
   2. **Get Pool Info**: Retrieves the pool information needed for the swap.
   3. **Prepare Swap Params**: Prepares the parameters for the swap transaction.
   4. **Execute Swap**: Executes the token swap.
